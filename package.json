@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node test.js",
-    "start": "node index.js"
+    "test": "node test.js",
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
